@@ -1,3 +1,27 @@
+# React based To-Do App
+
+## Description
+This is a simple and user-friendly To-Do application built using React.
+The app allows users to add, delete, and mark tasks as completed.
+It focuses on clean UI and ease of use.
+
+## Features
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed
+- Task counter
+- Keyboard support (Enter key)
+- Persistent data using local storage
+
+## Tech Stack
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+
+## Project Type
+Web Development Course – Capstone Project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
